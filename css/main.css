@@ -21,7 +21,7 @@
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  padding-right: 20px;
+  width: 100%;
 }
 
 .container img {
@@ -43,6 +43,7 @@
   font-family: cursive;
   text-transform: uppercase;
   padding: 0rem;
+  margin-right: 40px;
 }
 
 .container__list li {

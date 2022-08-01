@@ -14,7 +14,8 @@
       border-style: solid;
       border-color: red;
       justify-content: space-between;  
-      padding-right: 20px;
+      // padding-right: 20px;
+      width: 100%;
   }
 
   img{
@@ -34,6 +35,8 @@
     font-family: cursive;
     text-transform: uppercase;
     padding: 0rem;
+    margin-right: 40px;
+    
 
     li{
       margin: 1rem;
