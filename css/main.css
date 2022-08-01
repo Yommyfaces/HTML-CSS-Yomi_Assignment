@@ -3,7 +3,8 @@
   border-color: black;
   border-width: thick;
   background-color: #adca1c;
-  margin: -10px;
+  width: 100%;
+  margin-top: -8px;
 }
 
 .container__wrapper {
@@ -52,5 +53,23 @@
   background-color: red;
   border-style: solid;
   border-color: red;
+}
+
+.hero {
+  border-style: solid;
+  border-color: black;
+  width: 100%;
+  height: 42vh;
+  position: relative;
+}
+
+.hero__slider {
+  border-style: solid;
+  border-color: red;
+}
+
+.hero__slider img {
+  width: 100%;
+  height: 42vh;
 }
 /*# sourceMappingURL=main.css.map */

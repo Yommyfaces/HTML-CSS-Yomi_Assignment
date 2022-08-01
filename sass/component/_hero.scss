@@ -1,0 +1,21 @@
+.hero{
+  border-style: solid;
+  border-color: black;
+  width: 100%;
+  height: 42vh;
+  position: relative;
+  // background: url("/images/hero_background.png");
+  // background-repeat: no-repeat;
+  // background-size: 830px 400px;
+
+
+  &__slider{
+    border-style: solid;
+    border-color: red;
+    img{
+      width: 100%;
+      height: 42vh;
+    }
+  }
+
+}
